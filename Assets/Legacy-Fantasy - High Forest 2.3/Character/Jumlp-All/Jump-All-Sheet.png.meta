@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 5
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,322 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Jump-All-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826571108c7566b4990ed6f8c00dd1a8
+      internalID: -812379639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9c21a3ff4b95c42902629e7f11f8a4
+      internalID: 1338711455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ed1cf7ca4aeb344a1b3891cc4de366
+      internalID: -967456147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef745cdc2fc25a40a50836ffe93c635
+      internalID: -1720061336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628a65facea78f14989712bb3c8d2804
+      internalID: -618052300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0deb15733a6009469bb9093c53a5d46
+      internalID: -2029121650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d9cf0ef9115c94a94de98cc41f8e1b
+      internalID: -1631208891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c722cc318ed884a97a7f8d800ce263
+      internalID: -458873518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fcc990dd2ac3f4d8424a9d383477ad
+      internalID: 1373735330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 6
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637d60707e8c01b478b5a2eedf91c746
+      internalID: -1934091929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 5
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3375887f27a1fd4184f451c286d1d7b
+      internalID: -970092879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 4
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69876052506186e48abbb8b00ba8b66a
+      internalID: 1351793339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7c69e6dae2b84ebf7c27d8de147e1
+      internalID: -2103243884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64c589e8c6051e429528cccbe2424ad
+      internalID: 445496495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-All-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8fb12028ac28947a72e619a9a0b4fd
+      internalID: 1806054710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +434,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jump-All-Sheet_0: -812379639
+      Jump-All-Sheet_1: 1338711455
+      Jump-All-Sheet_10: -970092879
+      Jump-All-Sheet_11: 1351793339
+      Jump-All-Sheet_12: -2103243884
+      Jump-All-Sheet_13: 445496495
+      Jump-All-Sheet_14: 1806054710
+      Jump-All-Sheet_2: -967456147
+      Jump-All-Sheet_3: -1720061336
+      Jump-All-Sheet_4: -618052300
+      Jump-All-Sheet_5: -2029121650
+      Jump-All-Sheet_6: -1631208891
+      Jump-All-Sheet_7: -458873518
+      Jump-All-Sheet_8: 1373735330
+      Jump-All-Sheet_9: -1934091929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
